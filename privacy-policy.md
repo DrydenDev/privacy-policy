@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy
+---
+
 # Privacy Policy for MiniLuke
 
 **Last Updated:** March 24, 2026
