@@ -1,0 +1,8 @@
+title: My Site
+description: A simple markdown page
+theme: minima
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
