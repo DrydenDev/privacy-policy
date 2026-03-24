@@ -1,82 +1,60 @@
 ---
 layout: default
-title: Privacy Policy
+title: MiniLuke
 ---
 
-# Privacy Policy for MiniLuke
+# MiniLuke
 
-**Last Updated:** March 24, 2026
-
-## 1. Overview
-
-MiniLuke ("we", "our", or "us") respects your privacy. This Privacy Policy explains what information we collect, how we use it, and how we protect it when you use our application.
-
-## 2. Information We Collect
-
-When you sign in using a third-party OAuth provider (such as Google), we may collect the following information:
-
-* **Name**
-* **Email address**
-* **Profile picture**
-
-We do not request or access any additional data beyond what is necessary for account creation and authentication.
-
-## 3. How We Use Your Information
-
-We use the information collected solely for:
-
-* Creating and managing your account
-* Authenticating your identity when you log in
-* Displaying your profile information within the app
-
-We do **not** use your information for advertising or marketing purposes.
-
-## 4. Data Sharing
-
-We do **not** sell, trade, or share your personal information with third parties.
-
-Your data is only used internally to provide the core functionality of MiniLuke.
-
-## 5. Data Storage and Security
-
-We take reasonable measures to protect your information from unauthorized access, disclosure, or misuse.
-
-However, no system is completely secure, and we cannot guarantee absolute security.
-
-## 6. Third-Party Services
-
-MiniLuke uses OAuth providers (such as Google) for authentication. Your use of those services is subject to their respective privacy policies.
-
-## 7. Data Retention
-
-We retain your information only for as long as your account is active or as needed to provide the service.
-
-If you delete your account, we will delete your associated personal data within a reasonable timeframe.
-
-## 8. Your Rights
-
-You may request to:
-
-* Access your data
-* Update your information
-* Delete your account and associated data
-
-To make a request, contact us using the information below.
-
-## 9. Children's Privacy
-
-MiniLuke is not intended for children under the age of 13. We do not knowingly collect personal information from children.
-
-## 10. Changes to This Policy
-
-We may update this Privacy Policy from time to time. Changes will be posted within the app with an updated "Last Updated" date.
-
-## 11. Contact
-
-If you have any questions about this Privacy Policy, you can contact us at:
-
-**Email:** [[your-email@example.com](mailto:your-email@example.com)]
+MiniLuke is the personal development label under which Luke Busler builds hobby web applications. These are passion projects — not commercial products.
 
 ---
 
-By using MiniLuke, you agree to this Privacy Policy.
+## About MiniLuke Apps
+
+MiniLuke apps are personal hobby projects built for fun, learning, and sharing with friends and family. They are not affiliated with any company and are not monetized.
+
+Apps developed under the MiniLuke label may offer sign-in via Google OAuth to make it easy to create an account without a separate password. This is purely for convenience.
+
+---
+
+## What We Ask For (and Why)
+
+When you sign in with Google, we request only the minimum information needed to create your account:
+
+| Data | Purpose |
+|---|---|
+| **Name** | To identify you within the app |
+| **Email address** | To uniquely identify your account |
+| **Profile picture** | To display as your avatar |
+
+We do **not** request access to your Gmail, Google Drive, contacts, calendar, or any other Google data.
+
+---
+
+## How Your Data Is Used
+
+Your information is used solely to:
+
+- Create and manage your account
+- Authenticate you when you return
+- Display your name and profile picture within the app
+
+We do **not** sell, share, or use your data for advertising or any commercial purpose.
+
+---
+
+## Hobby Development, Not a Business
+
+MiniLuke is a personal project label. There is no company, no advertising, and no monetization. These apps exist for the joy of building and for the people who use them.
+
+---
+
+## Privacy Policy
+
+For full details on how your data is collected, stored, and protected, please read the [MiniLuke Privacy Policy](/privacy-policy).
+
+---
+
+## Contact
+
+Questions? Reach out at **[luke.busler@gmail.com](mailto:luke.busler@gmail.com)**.
